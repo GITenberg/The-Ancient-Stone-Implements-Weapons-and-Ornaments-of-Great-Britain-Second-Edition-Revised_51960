@@ -1,0 +1,29 @@
+_repo: The-Ancient-Stone-Implements-Weapons-and-Ornaments-of-Great-Britain-Second-Edition-Revised_51960
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Evans, John
+    alias: Evans, John, Sir
+    birthdate: 1823
+    deathdate: 1908
+    gutenberg_agent_id: '46615'
+    url: http://www.gutenberg.org/2009/agents/46615
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51960'
+  lccn: '03033110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stone age -- Great Britain'
+- !lcc 'GN'
+- !lcsh 'Great Britain -- Antiquities'
+- GITenberg
+title: 'The Ancient Stone Implements, Weapons and Ornaments, of Great Britain
+
+  Second Edition, Revised'
+url: http://www.gutenberg.org/ebooks/51960
